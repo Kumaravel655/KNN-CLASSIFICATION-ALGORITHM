@@ -24,6 +24,12 @@ Non-parametric learning algorithm − KNN is also a non-parametric learning algo
 <br>
 </br>
 
+<br>
+</br>
+
+<br>
+</br>
+
 ## Program:
 ```
 /*
